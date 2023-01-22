@@ -1,7 +1,7 @@
 This little project's main goal was to practice OOP, SOLID and RESTful API with Flask and Python. It also includes some Unit Testing with "unittest" library.
 
 To run project:
-Run the "run.sh" script file using git.
+Run the "run.sh" script file using git. Alternatively, if the sh script file doesn't run (may vary depending your OS), just press the run button (or shift+f10) on the my_flask.py file.
 
 The output will instruct you to open http://127.0.0.1:5000, from there you can send HTTP requests with the desired input to the project, on path "http://127.0.0.1:5000/(mathematical-expression)/(extension)".
 
