@@ -1,4 +1,4 @@
-This little project's main goal was to practice OOP, SOLID and RESTful API with Flask and Python. It also includes some Unit Testing with "unittest" library.
+This little project's main goal was to practice OOP, SOLID, design patterns and RESTful API with Flask and Python. It also includes some Unit Testing with "unittest" library.
 
 To run project:
 Run the "run.sh" script file using git. Alternatively, if the sh script file doesn't run (may vary depending your OS), just press the run button (or shift+f10) on the my_flask.py file.
